@@ -1,0 +1,6 @@
+{
+  "name": "FarmsFriend",
+  "description": "Premium agricultural supplies and farming solutions provider in Pennsylvania, delivering seeds, fertilizers, irrigation, and consulting services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
